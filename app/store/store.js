@@ -1,6 +1,3 @@
-/**
- * Created by osx on 2017/10/11.
- */
 import {createStore, applyMiddleware} from 'redux';
 import thunk from 'redux-thunk';
 import rootReducer from '../reducers/rootReducer';

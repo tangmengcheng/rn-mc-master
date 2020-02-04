@@ -1,6 +1,3 @@
-/**
- * Created by osx on 2017/10/11.
- */
 import * as types from './actionTypes';
 
 export let modifyUserName=(username)=>{

@@ -1,6 +1,4 @@
-/**
- * Created by osx on 2017/10/10.
- */
+
 import React,{Component,PropTypes} from 'react';
 import {
     StyleSheet,

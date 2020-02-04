@@ -1,7 +1,4 @@
-/**
- * Created by osx on 2017/10/11.
- */
-import * as types from '../actions/actionTypes';
+﻿import * as types from '../actions/actionTypes';
 const initialState={
     username:'&_&',
     password:'123456'

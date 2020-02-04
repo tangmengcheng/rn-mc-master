@@ -1,6 +1,4 @@
-/**
- * Created by osx on 17/10/10.
- */
+
 /**
  *  TabBar
  */

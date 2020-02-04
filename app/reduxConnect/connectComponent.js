@@ -1,6 +1,3 @@
-/**
- * Created by osx on 2017/10/11.
- */
 import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux';
 import actions from '../actions/rootAction';
