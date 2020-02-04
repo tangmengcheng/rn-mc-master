@@ -8,3 +8,5 @@ A react-native initialization model！
 
 # rn-mc-master
 react-native项目初始化
+
+项目初始化切换到develop分支
